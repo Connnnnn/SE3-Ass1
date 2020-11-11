@@ -7,7 +7,7 @@ public class Student {
     private int Age;
     private String DOB;
     private String ID;
-    private String username;
+    private String userName;
     private ArrayList<Course> courses;
     private ArrayList<Modules> modules;
 
@@ -54,14 +54,18 @@ public class Student {
         this.ID = ID;
     }
 
-    public String getUsername(String name, int Age) {
-        String username = name.toLowerCase() + Age;
-        username = username.replaceAll("\\s+","");
-        return username;
+    public String getUsername() {
+        String name = this.getName().toLowerCase();
+        name = name.replaceAll("\\s+","");
+
+        int age = this.getAge();
+        this.userName= name+age;
+
+        return userName;
     }
 
-    public void setUsername(String username) {
-        this.username = username;
+    public void setUsername(String userName) {
+        this.userName = userName;
     }
 
     public ArrayList<Course> getCourses() {
@@ -79,4 +83,6 @@ public class Student {
     public void setModules(ArrayList<Modules> modules) {
         this.modules = modules;
     }
+
+
 }
