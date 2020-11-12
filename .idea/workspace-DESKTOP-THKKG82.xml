@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="faa8c37f-6870-476c-b90e-9f9f0dfb6e7e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iSCiZ3lKBxRdcuHPa6TfjA3eZA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faa8c37f-6870-476c-b90e-9f9f0dfb6e7e" name="Default Changelist" comment="" />
+      <created>1601891734718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601891734718</updated>
+      <workItem from="1601891735897" duration="5025000" />
+      <workItem from="1601978010399" duration="4768000" />
+      <workItem from="1602684135001" duration="2439000" />
+      <workItem from="1602853161109" duration="27000" />
+      <workItem from="1603205584431" duration="863000" />
+      <workItem from="1603384518255" duration="42000" />
+      <workItem from="1605110114045" duration="5802000" />
+      <workItem from="1605125303585" duration="1679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1601894672921">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050/-1920.30.1920.1050@0.30.1920.1050" timestamp="1601894672921" />
+    <state x="531" y="296" key="FileChooserDialogImpl" timestamp="1603384556174">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="531" y="296" key="FileChooserDialogImpl/0.30.1920.1050/-1920.30.1920.1050@0.30.1920.1050" timestamp="1603384556174" />
+    <state x="490" y="210" key="Maven.ArtifactSearchDialog" timestamp="1601893633421">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="490" y="210" key="Maven.ArtifactSearchDialog/0.30.1920.1050/-1920.30.1920.1050@0.30.1920.1050" timestamp="1601893633421" />
+    <state x="959" y="207" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601994102240">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="959" y="207" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.30.1920.1050/-1920.30.1920.1050@0.30.1920.1050" timestamp="1601994102240" />
+    <state x="342" y="216" key="new project wizard" timestamp="1603384556894">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="342" y="216" key="new project wizard/0.30.1920.1050/-1920.30.1920.1050@0.30.1920.1050" timestamp="1603384556894" />
+    <state x="623" y="257" key="search.everywhere.popup" timestamp="1601894296953">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="623" y="257" key="search.everywhere.popup/0.30.1920.1050/-1920.30.1920.1050@0.30.1920.1050" timestamp="1601894296953" />
+  </component>
+</project>
