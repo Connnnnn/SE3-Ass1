@@ -1,5 +1,5 @@
-import com.sun.xml.internal.bind.v2.model.core.ID;
-import sun.security.pkcs11.Secmod;
+//import com.sun.xml.internal.bind.v2.model.core.ID;
+//import sun.security.pkcs11.Secmod;
 
 import java.util.ArrayList;
 
@@ -9,6 +9,7 @@ class StudentTest {
 
     private ArrayList<Course> courses = new ArrayList<Course>();
     private ArrayList<Modules> modules = new ArrayList<Modules>();
+
     @org.junit.jupiter.api.Test
     void getName() {
     }
@@ -23,7 +24,7 @@ class StudentTest {
 
     @org.junit.jupiter.api.Test
     void getID() {
-        Student student = new Student("Conor",21,"1998-12-08","1738",courses, modules);
+        Student student = new Student("Conor", 21, "1998-12-08", "1738", courses, modules);
 
         //assertEquals();
     }

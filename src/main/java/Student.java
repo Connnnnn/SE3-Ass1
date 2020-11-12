@@ -56,10 +56,10 @@ public class Student {
 
     public String getUsername() {
         String name = this.getName().toLowerCase();
-        name = name.replaceAll("\\s+","");
+        name = name.replaceAll("\\s+", "");
 
         int age = this.getAge();
-        this.userName= name+age;
+        this.userName = name + age;
 
         return userName;
     }
