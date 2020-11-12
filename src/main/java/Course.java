@@ -1,5 +1,6 @@
 import org.joda.time.DateTime;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 
 public class Course {
@@ -7,10 +8,10 @@ public class Course {
     private String courseName;
     private ArrayList<Modules> modules;
     private ArrayList<Student> studentsEnrolled;
-    private DateTime startDate;
-    private DateTime endDate;
+    private LocalDate startDate;
+    private LocalDate endDate;
 
-    public Course(String courseName, ArrayList<Modules> modules, ArrayList<Student> studentsEnrolled, DateTime startDate, DateTime endDate) {
+    public Course(String courseName, ArrayList<Modules> modules, ArrayList<Student> studentsEnrolled, LocalDate startDate, LocalDate endDate) {
         this.courseName = courseName;
         this.modules = modules;
         this.studentsEnrolled = studentsEnrolled;
@@ -42,19 +43,19 @@ public class Course {
         this.studentsEnrolled = studentsEnrolled;
     }
 
-    public DateTime getStartDate() {
+    public LocalDate getStartDate() {
         return startDate;
     }
 
-    public void setStartDate(DateTime startDate) {
+    public void setStartDate(LocalDate startDate) {
         this.startDate = startDate;
     }
 
-    public DateTime getEndDate() {
+    public LocalDate getEndDate() {
         return endDate;
     }
 
-    public void setEndDate(DateTime endDate) {
+    public void setEndDate(LocalDate endDate) {
         this.endDate = endDate;
     }
 }
