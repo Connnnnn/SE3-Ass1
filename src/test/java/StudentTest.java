@@ -1,5 +1,8 @@
 
 
+import main.Course;
+import main.Modules;
+import main.Student;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

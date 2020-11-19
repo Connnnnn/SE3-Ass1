@@ -8,7 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SE3Ass1" />
         <module name="SE-Ass1" />
+        <module name="Ass1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ass1" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

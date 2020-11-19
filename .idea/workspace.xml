@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -35,9 +38,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SE3Ass1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,19 +85,34 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="640" y="290" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605181697932">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="640" y="290" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1605181697932" />
-    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1605181853584">
+    <state x="421" y="477" key="DetectedRootsChooserDialog" timestamp="1605802704704">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="421" y="477" key="DetectedRootsChooserDialog/0.30.1920.1050/-1920.30.1920.1050/1920.-435.1080.1890@0.30.1920.1050" timestamp="1605802704704" />
+    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1605802702196">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050/-1920.30.1920.1050/1920.-435.1080.1890@0.30.1920.1050" timestamp="1605802702196" />
     <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1605181853584" />
-    <state x="262" y="185" width="1020" height="711" key="SettingsEditor" timestamp="1605181677672">
+    <state x="490" y="209" key="Maven.ArtifactSearchDialog" timestamp="1605802822849">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="490" y="209" key="Maven.ArtifactSearchDialog/0.30.1920.1050/-1920.30.1920.1050/1920.-435.1080.1890@0.30.1920.1050" timestamp="1605802822849" />
+    <state x="104" y="156" width="1020" height="711" key="SettingsEditor" timestamp="1605802709150">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="104" y="156" key="SettingsEditor/0.30.1920.1050/-1920.30.1920.1050/1920.-435.1080.1890@0.30.1920.1050" timestamp="1605802709150" />
     <state x="262" y="185" width="1020" height="711" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1605181677672" />
+    <state x="383" y="513" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605802691174">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="383" y="513" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.30.1920.1050/-1920.30.1920.1050/1920.-435.1080.1890@0.30.1920.1050" timestamp="1605802691174" />
   </component>
 </project>
